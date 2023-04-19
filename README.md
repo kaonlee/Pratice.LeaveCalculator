@@ -12,6 +12,7 @@
 - 實際執行畫面
 
 ![image](https://user-images.githubusercontent.com/49613947/233032292-b0998fce-75e0-44e8-9e37-c06f7608af5a.png)
+![image](https://user-images.githubusercontent.com/49613947/233032639-140cea3c-8f92-424f-879b-34f0009b8b96.png)
 ![image](https://user-images.githubusercontent.com/49613947/233032217-0df2b5c7-d24c-427f-90fa-5998179e84a7.png)
 
 
